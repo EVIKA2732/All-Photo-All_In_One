@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+
+    <string name="app_name">All\'Porn</string>
+
+    <!-- Activity Titles -->
+    <string formatted="false" name="menuAllPornActivity">Menu All\'Porn</string>
+    <string formatted="false" name="allPornMainActivity">All\'Porn</string>
+	
+	<!-- Navigation Titles -->
+    <string name="mainmenu_entry0">Menu MikaBroswer</string>
+    <string name="mainmenu_entry1">MikaBrowse</string>
+</resources>
+
