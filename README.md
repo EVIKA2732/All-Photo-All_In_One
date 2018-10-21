@@ -34,3 +34,44 @@ Adding some functionality like this
 -[Adding of section link, and related of eroticism, all the links of all that is related to eroticism]
 
 -[Added a section of everything that exists in eroticism and other]
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+-----------
+#Motivation
+-----------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
