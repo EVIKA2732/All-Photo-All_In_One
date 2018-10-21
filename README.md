@@ -26,10 +26,9 @@ ________________________________________________________________________________
 -------------
 
 */*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/
-
-|#Explanation|
-|____________|
-
+------------
+#Explanation
+------------
 I propose just a app who you can allow to view photo for adult only. Many of photo will be published in the future.
 -Photo in mostly nude
 -For Adult Only
