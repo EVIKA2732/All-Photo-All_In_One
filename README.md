@@ -60,13 +60,18 @@ Adding some functionality like this
 
 
 
+--------------------------------------------------------------------------------------------------------------------------------------
 
 
+ ---------------
+# Features of App's
+ ----------------
 
-
-
-
-
+• See photos
+• Watch video(in futur)
+• Visit links(in futur)
+• Section regrouping everything that exists(in futur)
+• VR (May be in the future of possible) No warranty
 
 
 
