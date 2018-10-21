@@ -16,7 +16,7 @@ ________________________________________________________________________________
 
 */*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/*\*/
 
- _____#Explanation|
+|#Explanation|
 |____________|
 
 I propose just a app who you can allow to view photo for adult only. Many of photo will be published in the future.
@@ -26,6 +26,8 @@ I propose just a app who you can allow to view photo for adult only. Many of pho
 improvement of the application in the futur:
 
 Adding some functionality like this
+
+
 
 -[Adding of section Video]
 -[Adding of section link, and related of eroticism, all the links of all that is related to eroticism]
