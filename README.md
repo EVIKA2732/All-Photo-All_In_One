@@ -30,9 +30,13 @@ ________________________________________________________________________________
 #Explanation
 ------------
 I propose just a app who you can allow to view photo for adult only. Many of photo will be published in the future.
+
 -Photo in mostly nude
+
 -For Adult Only
+
 -Do not hesitate to contact us if you encountered some bug or any other.
+
 improvement of the application in the futur:
 
 Adding some functionality like this
@@ -67,9 +71,13 @@ Adding some functionality like this
  ----------------
 
 • See photos
+
 • Watch video(in futur)
+
 • Visit links(in futur)
+
 • Section regrouping everything that exists(in futur)
+
 • VR (May be in the future of possible) No warranty
 
 
